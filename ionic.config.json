@@ -1,0 +1,8 @@
+{
+  "name": "CenturyTea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c232be76"
+}
